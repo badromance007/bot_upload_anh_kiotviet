@@ -1,6 +1,9 @@
 # bot_upload_anh_kiotviet
 Upload images for kiotviet
 
+# Excel format
+![alt text](https://www.upsieutoc.com/images/2020/09/05/machungdung.png)
+
 # Setup
 
 Step 1:
