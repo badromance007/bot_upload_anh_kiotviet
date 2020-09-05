@@ -1,0 +1,8 @@
+node_modules
+
+images/*
+!images/.gitkeep 
+data/*
+!data/.gitkeep 
+excels/*
+!excels/.gitkeep 
